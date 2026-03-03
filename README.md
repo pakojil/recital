@@ -54,6 +54,10 @@ Para ejecutar la app actual, los elementos efectivos son:
 
 - [Mammoth.js](https://github.com/mwilliamson/mammoth.js) para parseo de DOCX.
 
+## Licencias de terceros
+
+- Consulta [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) para el detalle de bibliotecas externas y atribuciones.
+
 ## Licencia
 
 Este proyecto publica su **código** bajo licencia [MIT](LICENSE).
