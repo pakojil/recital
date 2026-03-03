@@ -3,9 +3,7 @@
 [![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
 [![Norma](https://img.shields.io/badge/Norma-APA%207-blue.svg)](#nota-crítica-de-norma)
 [![Lenguaje](https://img.shields.io/badge/Lenguaje-HTML%20%7C%20JS-orange.svg)](#archivos-realmente-implicados-en-la-ejecución)
-[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=github)](https://TU_USUARIO.github.io/TU_REPO/)
-
-> Sustituye `TU_USUARIO` y `TU_REPO` en el badge de GitHub Pages por tus datos reales.
+[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=github)](https://pakojil.github.io/recital/)
 
 ![Portada RECITAL](assets/recital-orquesta.PNG)
 
@@ -68,3 +66,4 @@ Los logos institucionales, marcas, nombres comerciales e identidad gráfica most
 
 - Puedes reutilizar/modificar el código según MIT.
 - Para redistribuir en producción, se recomienda sustituir logos/marcas por recursos propios o con permisos explícitos.
+
